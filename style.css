@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+
+    border-style: outset;
+    border-color: blueviolet greenyellow;
+    border-width: 7px;
+
+    background-color: turquoise;
+}
+
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.origami{
+    display: flex;
+    justify-content: left;
+}
+
+h4.origami{
+    border-style: outset;
+    border-color: springgreen;
+    border-width: 7px;
+
+    background-color: cyan;
+}
